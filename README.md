@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello,+I'm+furkanertal;Machine+Learning;+Software+Development;Game+Development" alt="Typing SVG" />
 </p>
+
 ### 🤖 Machine Learning Engineer | 📊 Data Scientist | 🎮 Game Dev
 
 Bridging the gap between raw data and intelligent agents. Currently specializing in **LLM Agents** and **Computer Vision**, while maintaining a creative passion for game mechanics.
