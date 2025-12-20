@@ -1,31 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Hello,%20I'm%20furkanertal!&fontSize=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello,+I'm+furkanertal;Machine+Learning;+Software+Development;Game+Development" alt="Typing SVG" />
 </p>
 
-### 🛠️ Data Engineer | 🎮 Hobbyist Game Developer
+### 🤖 Machine Learning Engineer | 📊 Data Scientist | 🎮 Hobbyist Game Dev
 
-Passionate about architecting robust data pipelines and crafting immersive gaming experiences. I bridge the gap between complex data processing and creative game mechanics.
-
----
-
-### 🚀 About Me
-- 🔭 Working on building scalable ETL processes and data architectures.
-- 🕹️ Developing indie game projects as a creative outlet.
-- 🐍 Expert in Python for data automation and C# for game logic.
-- 📊 Focused on performance optimization and clean code architecture.
+Bridging the gap between raw data and intelligent agents. Currently specializing in **LLM Agents** and **Computer Vision**, while maintaining a creative passion for game mechanics.
 
 ---
+### 🚀 Technical Focus
+- 🧠 **Machine Learning:** Building and fine-tuning predictive models and LLM-based agents.
+- 🏗️ **MLOps:** Containerizing models for production and managing model lifecycles.
+- 🔭 **Data Research:** Deep diving into data patterns using Python and MATLAB.
+- 🕹️ **Game Engineering:** Implementing complex logic and AI in Unity using C#.
+
+---
+### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
-| Domain | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Game Development** | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **Tools & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **AI & Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **MLOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
-
 ### 📊 GitHub Analytics
 
 <p align="center">
