@@ -1,4 +1,4 @@
-# <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Hello,%20I'm%20[YourName]!&fontSize=70" />
+# <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Hello,%20I'm%20[furkanertal]!&fontSize=70" />
 
 ### 🛠️ Data Engineer | 🎮 Hobbyist Game Developer
 
@@ -27,24 +27,24 @@ Passionate about architecting robust data pipelines and crafting immersive gamin
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[furkanertal]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[furkanertal]&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourName]" height="30" width="40" /></a>
-<a href="mailto:[YourEmail]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" alt="[YourName]" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[furkanertal]" height="30" width="40" /></a>
+<a href="mailto:[furkanertal0@hotmail.com]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" alt="[YourName]" height="30" width="30" /></a>
 </p>
 
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=00BFFF&style=flat-square" alt="visitor-counter" />
+  <img src="https://komarev.com/ghpvc/?username=[furkanertal]&label=Profile%20Views&color=00BFFF&style=flat-square" alt="visitor-counter" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[furkanertal]&theme=tokyonight" alt="GitHub Streak" />
 </p>
