@@ -35,7 +35,7 @@ Passionate about architecting robust data pipelines and crafting immersive gamin
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanertal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/furkan-e-962131241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanertal" height="30" width="40" /></a>
 <a href="mailto:[furkanertal0@hotmail.com]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" alt="furkanertal" height="30" width="30" /></a>
 </p>
 
