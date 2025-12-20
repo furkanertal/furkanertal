@@ -1,4 +1,6 @@
-# <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Hello,%20I'm%20furkanertal!&fontSize=70" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Hello,%20I'm%20furkanertal!&fontSize=70" />
+</p>
 
 ### 🛠️ Data Engineer | 🎮 Hobbyist Game Developer
 
