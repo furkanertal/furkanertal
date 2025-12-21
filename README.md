@@ -63,3 +63,5 @@ Bridging the gap between raw data and intelligent agents. Currently specializing
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanertal&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
