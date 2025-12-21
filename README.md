@@ -52,7 +52,9 @@ Bridging the gap between raw data and intelligent agents. Currently specializing
   <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-</p>---
+</p>
+
+---
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=furkanertal&label=Profile%20Views&color=00BFFF&style=flat-square" alt="visitor-counter" />
