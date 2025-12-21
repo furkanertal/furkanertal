@@ -35,7 +35,7 @@ Bridging the gap between raw data and intelligent agents. Currently specializing
 
 ---
 
-### 📫 Connect with Me
+### 📫 My Accounts
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
